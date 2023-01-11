@@ -124,4 +124,4 @@ Execute the program
 
 # OUTPUT
 
-file:///home/sec/Downloads/WhatsApp%20Image%202023-01-11%20at%201.44.28%20PM.jpeg
+file:///home/sec/Downloads/WhatsApp%20Image%202023-01-11%20at%201.44.28%20PM.
