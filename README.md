@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
     <head>
         <title>My Timetable</title>
@@ -120,7 +120,7 @@ Execute the program
 
 
 
-</html>
+</html>'''
 
 # OUTPUT
 ![Screenshot (10)](https://user-images.githubusercontent.com/118657189/211760470-6329842f-2e09-4ff2-b428-bf34c43f9047.png)
