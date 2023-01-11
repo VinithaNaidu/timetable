@@ -124,5 +124,5 @@ Execute the program
 
 # OUTPUT
 
-C:\Users\SEC\Pictures\Screenshots\Screenshot (10).png
 
+file:///home/sec/Downloads/WhatsApp%20Image%202023-01-11%20at%201.44.28%20PM.jpeg
