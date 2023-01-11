@@ -123,5 +123,6 @@ Execute the program
 </html>
 
 # OUTPUT
+![Screenshot (10)](https://user-images.githubusercontent.com/118657189/211760470-6329842f-2e09-4ff2-b428-bf34c43f9047.png)
 
-file:///home/sec/Downloads/WhatsApp%20Image%202023-01-11%20at%201.44.28%20PM.
+
