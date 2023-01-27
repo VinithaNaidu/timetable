@@ -1,17 +1,24 @@
 # Experiment_Time_Table
 
+
 ## AIM
 To Write a html webpage page to display your timetable.
 
+
 # ALGORITHM
+
 ### STEP 1
 create a simple table using table tag
+
 ### STEP 2
 Add header row using th tag
+
 ### STEP 3
 Add your timetable
+
 ### STEP 4
 Execute the program
+
 
 # CODE
 ```
@@ -53,7 +60,8 @@ Execute the program
                 <td>Physics</td>
                 <td>Physics</td>
                 </tr>
-            <tr></tr>
+            <tr>
+            </tr>
                 <td>TUESDAY</td>
                 <td>FreePeriod</td>
                 <td>FreePeriod</td>
@@ -118,7 +126,11 @@ Execute the program
         </table>
     </body>
 </html>
+
 ```
+
+
+
 # OUTPUT
 ![Screenshot (10)](https://user-images.githubusercontent.com/118657189/211760470-6329842f-2e09-4ff2-b428-bf34c43f9047.png)
 
