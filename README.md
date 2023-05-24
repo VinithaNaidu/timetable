@@ -34,8 +34,8 @@ Execute the program
             <tr>
                 <td align="center" colspan="10">TIME TABLE</td>
             <tr>
-                <td colspan="5">REFERENCE NUMBER:22008651</td>
-                <td colspan="5">NAME:JAIGANESH S</td>
+                <td colspan="5">REFERENCE NUMBER:22001203</td>
+                <td colspan="5">NAME:Vinitha</td>
                 <td colspan="5"></td>
             </tr>    
                 <td>DAYS</td>
